@@ -2,6 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     "minecraft:wheat",
+    "minecraft:wheat",
     "minecraft:cod"
   ],
   "result": {
